@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Tom\source\repos\sockMerchant\sockMerchant\main.cpp(8,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tom\source\repos\sockMerchant\sockMerchant\main.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+  sockMerchant.vcxproj -> C:\Users\Tom\source\repos\sockMerchant\Debug\sockMerchant.exe
